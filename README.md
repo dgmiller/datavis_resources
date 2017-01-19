@@ -31,3 +31,15 @@ Due next time: get your hands on a data set you want to visualize
 Today we are talking about [Dear Data](http://www.dear-data.com/theproject) and multidimensional visualizations.
 
 [FiveThirtyEight Dear Data](https://fivethirtyeight.com/features/we-asked-you-to-visualize-your-podcast-listening-and-wow-did-you-deliver/)
+
+Have a visualization to present next time.
+
+### Day 4: January 19
+
+Group critiques. Focus on next steps.
+Use Tufte's principles of analytical visualization.
+Also, if you are plotting map data, I added some files above to help.
+Make sure you install matplotlib's basemap by running `conda install basemap`
+in your terminal.
+
+For next time, collect some personal data for a Dear Data project.
