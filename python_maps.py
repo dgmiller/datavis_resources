@@ -5,6 +5,10 @@ installed. If you want to install it, go to your terminal and type the command
 library as shown below.
 """
 
+import pandas as pd
+import numpy as np
+import json
+from matplotlib import pyplot as plt
 from mpl_toolkits.basemap import Basemap
 
 def get_data():
@@ -32,10 +36,9 @@ def get_data():
     # make longitude and latitude columns
     df['lon'] = gps1
     df['lat'] = gps2
-    print df.head()
     return df
 
-def plot_the_world(self,data,proj='merc'):
+def plot_the_world(data,proj='merc'):
     """
     Shows some ways you can plot a map using Basemap. Consult Google and the 
     documentation for more details.
@@ -66,8 +69,8 @@ def plot_the_world(self,data,proj='merc'):
     # this draws a color mask over the projection
     # you could put in details if you want
     # consult the documentation for details
-    my_map.drawlsmask(land_color='white',ocean_color='white')
-    my_map.drawmapboundary()
+    #my_map.drawlsmask(land_color='white',ocean_color='white')
+    my_map.drawmapboundary(fill_color='white')
     # get the translated x,y coordinates of the map using lat and lon
     x,y = my_map(np.array(data['lon']),np.array(data['lat']))
     # scatter plot with constant bubble size
