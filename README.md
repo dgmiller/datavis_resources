@@ -42,8 +42,8 @@ Use Tufte's principles of analytical visualization.
 Also, if you are plotting map data, I added some files above to help.
 If you are using your personal computer, make sure you install matplotlib's basemap by running `conda install basemap` in your terminal.
 
-[Explained Visually](setosa.io/ev/)
+[Explained Visually](http://setosa.io/ev/)
 
-[Setosa Visualizations](setosa.io/#/)
+[Setosa Visualizations](http://setosa.io/#/)
 
 Due next time: choose an ACME lab to redesign and show potential employers.
