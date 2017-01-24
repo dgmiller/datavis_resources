@@ -28,7 +28,7 @@ Go to [this link](https://docs.google.com/spreadsheets/d/1DSqLDCsrzKlF4G4GbHl_IC
 With a partner, critique the following visualizations:
 
 + [xkcd Earth Temperature](https://xkcd.com/1732/)
-+ [Polygraph Film Dialogue](https://fivethirtyeight.com/features/science-isnt-broken/)
++ [Polygraph Film Dialogue](http://polygraph.cool/films/)
 + [FiveThirtyEight Gun Deaths](https://fivethirtyeight.com/features/gun-deaths/)
 
 *Visual Variables*
