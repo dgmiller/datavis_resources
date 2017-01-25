@@ -23,7 +23,10 @@ ipynb coming soon
 
 ### Day 5: January 24
 
-ANNOUNCEMENT: Formal class will no longer be held on Thursdays to not conflict with the soft skills seminar. All are encouraged to attend the soft skills seminar. Instead of Thursday meetings as a class, I will be holding personal reviews at a time of your choosing on Thursday. Go to [this link](https://docs.google.com/spreadsheets/d/1DSqLDCsrzKlF4G4GbHl_ICxONLsGzOTRkiB9G3NK9iI/edit?usp=sharing) to sign up for a 10 minute slot on Thursday. If none of these times work for you, contact me and schedule another time.
+ANNOUNCEMENT: Formal class will no longer be held on Thursdays to not conflict with the soft skills seminar. All are encouraged to 
+attend the soft skills seminar. Instead of Thursday meetings as a class, I will be holding personal reviews at a time of your choosing 
+on Thursday. Go to [this link](https://docs.google.com/spreadsheets/d/1DSqLDCsrzKlF4G4GbHl_ICxONLsGzOTRkiB9G3NK9iI/edit?usp=sharing) 
+to sign up for a 10 minute slot on Thursday. If none of these times work for you, contact me and schedule another time.
 
 With a partner, critique the following visualizations:
 
@@ -44,14 +47,15 @@ More about Hue, Saturation, and Value (HSV) [here](http://learn.leighcotnoir.com
 
 *Drawing exercise*
 
-In a group, draw as many representations of this data set: 25, 13\\
-Yes there are only two numbers. Take two minutes to come up with as many representations as you can. Draw them on paper. What did you learn? Discuss.
+In a group, draw as many representations of this data set: 25, 13. Yes there are only two numbers. Take two minutes to
+come up with as many representations as you can. Draw them on paper. What did you learn? Discuss.
 
 **Homework**: Schedule a Thursday portfolio review with me.
 
 ### Day 4: January 19
 
-In a group, critique the initial visualizations of your data set. Focus your critiques on what the creator should do next with this visualization (choose better colors, make dots bigger, add more variables, etc).
+In a group, critique the initial visualizations of your data set. Focus your critiques on what the creator should
+do next with this visualization (choose better colors, make dots bigger, add more variables, etc).
 
 Concepts can be visualized just like data. Discuss in a group what the following visualizations do to represent a concept:
 
@@ -71,7 +75,7 @@ Collecting your own data and visualizing it teaches you a lot about how to repre
 You learn that people make assumptions when they want to collect data to measure something.
 Your visualizations should reflect the choices and assumptions made during the data collection process.
 
-When you are ready to communicate insight you have found in a data set, always start with paper and pen or pencil.\\
+When you are ready to communicate insight you have found in a data set, always start with paper and pen or pencil.
 Draw what you want the visualization to look like before you build it.
 
 **Due next time**: Have a visualization to present.
@@ -103,8 +107,14 @@ We learned how to critique a data visualization.
 
 Some questions to ask when evaluating representations of data:
 
-What are your first impressions?\\Do you like the visualization?\\Does it help you understand the data?\\
-What is the creator trying to demonstrate?\\What is being compared?\\How many variables are present?\\
-Is there anything unnecessary or redundant?\\Where does the data come from?\\Is the data presented in context?
++ What are your first impressions?
++ Do you like the visualization?
++ Does it help you understand the data?
++ What is the creator trying to demonstrate?
++ What is being compared?
++ How many variables are present?
++ Is there anything unnecessary or redundant?
++ Where does the data come from?
++ Is the data presented in context?
 
 [How to learn data visualization](http://datastori.es/episode-5-how-to-learn-data-visualization-with-andy-kirk/)
