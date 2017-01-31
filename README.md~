@@ -6,20 +6,30 @@
 
 *this is not yet set in stone*
 
-+ Visualize an ACME lab
-+ Create several good static visualizations
-+ Create a visualization using Processing or D3.js
-+ Collect personal data by tracking your sleep/food/exercise habits and visualize the data set
++ Redesign an ACME lab
++ Complete a visual data analysis project and write up on Medium
 
-##Schedule and Links
-
-Below is what we talked about in class as well as general notes.
 
 ### Day 6: January 31
 
 Exploration vs Communication
 
-ipynb coming soon
+*The greatest value of a picture is when it forces us to notice what we never expected to see.* -- John Tukey
+
+Talk about the difference between exploring a data set and communicating an insight in a data set.
+What are the differences in the visualization methods? What should you focus on in each? What skills
+or abilities do you need for each? Pros and Cons of both?
+
++ Tufte Cholera Example
++ Tufte Challenger PowerPoint
+
+Examples of Medium data vis blog post
+
++ [Rogue Train Caught with Data](https://blog.data.gov.sg/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a#.4zgj3hs33)
++ [Germany's U-boats and Data Visualization](https://medium.com/@kadenhendron/germany-s-u-boats-data-visualization-6e018c6c174#.9u14mvypt)
++ [Dialogue in Classic Literature](https://medium.com/@thesarahkay/how-often-do-classic-characters-chat-67525d0e5008#.oyi1te6vz)
+
+**Homework**: Sign up for a time to meet with me on Thursday. Bring either some visualizations for your ACME lab or stuff for your Data Report project.
 
 ### Day 5: January 24
 

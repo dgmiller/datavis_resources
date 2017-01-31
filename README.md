@@ -4,14 +4,8 @@
 
 ##Portfolio Projects
 
-*this is not yet set in stone*
-
 + Redesign an ACME lab
 + Complete a visual data analysis project and write up on Medium
-
-##Schedule and Links
-
-Below is what we talked about in class as well as general notes.
 
 ### Day 6: January 31
 
