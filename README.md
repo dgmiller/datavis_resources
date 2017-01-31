@@ -26,6 +26,11 @@ Examples of Medium data vis blog post
 + [Germany's U-boats and Data Visualization](https://medium.com/@kadenhendron/germany-s-u-boats-data-visualization-6e018c6c174#.9u14mvypt)
 + [Dialogue in Classic Literature](https://medium.com/@thesarahkay/how-often-do-classic-characters-chat-67525d0e5008#.oyi1te6vz)
 
+Be careful about using exploratory analysis to confirm your own beliefs. Some good blog posts by Andrew Gelman at Columbia:
+
++ [Exploratory and Confirmatory Studies](http://andrewgelman.com/2010/02/16/exploratory_and/)
++ [Thinking more seriously about exploratory studies](http://andrewgelman.com/2016/11/17/thinking-more-seriously-about-the-design-of-exploratory-studies/)
+
 **Homework**: Sign up for a time to meet with me on Thursday. Bring either some visualizations for your ACME lab or stuff for your Data Report project.
 
 ### Day 5: January 24
