@@ -2,10 +2,32 @@
 
 [Thursday Portfolio Reviews Google Sheet](https://docs.google.com/spreadsheets/d/1DSqLDCsrzKlF4G4GbHl_ICxONLsGzOTRkiB9G3NK9iI/edit?usp=sharing)
 
-##Portfolio Projects
+## Portfolio Projects
 
 + Redesign an ACME lab
 + Complete a visual data analysis project and write up on Medium
+
+### Day 7: February 7
+
+ANNOUNCEMENT: There are 4 Tufte books and another book called Dataclysm in the 150 computer lab.
+You are free to use them to get ideas and learn more about data vis. Please keep them in the room
+and don't write in them. I recommend starting with *The Visual Display of Quantitative Information*.
+
+Create a github account and make a repo called Portfolio. Start pushing your iterations up to this portfolio.
+
+[Great podcast about color](http://datastori.es/episode-7-color-feat-gregor-aisch/)
+
+[Data Narrative](http://polygraph.cool/redraft/)
+
+[Cool Wind](http://hint.fm/wind/gallery/index.html)
+
+[Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/)
+
+[Feltron](http://feltron.com/)
+
+[Drawing exercises](http://blog.creativelive.com/drawing-for-graphic-design-exercises/)
+
+Get it right in black and white.
 
 ### Day 6: January 31
 
