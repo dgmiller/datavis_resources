@@ -9,23 +9,19 @@
 
 ### Day 7: February 7
 
+Train your eyes to see.
+
+*Anyone who can't communicate their ideas is on the same plane as someone who has no ideas.* -- Pericles
+
 ANNOUNCEMENT: There are 4 Tufte books and another book called Dataclysm in the 150 computer lab.
 You are free to use them to get ideas and learn more about data vis. Please keep them in the room
 and don't write in them. I recommend starting with *The Visual Display of Quantitative Information*.
 
-Create a github account and make a repo called Portfolio. Start pushing your iterations up to this portfolio.
+[How to Doodle](https://www.youtube.com/watch?v=6gSmQNmC-5c)
 
-[Great podcast about color](http://datastori.es/episode-7-color-feat-gregor-aisch/)
+[Simple Drawing Exercises](https://design.tutsplus.com/articles/i-want-to-draw-simple-exercises-for-complete-beginners--vector-20583)
 
-[Data Narrative](http://polygraph.cool/redraft/)
-
-[Cool Wind](http://hint.fm/wind/gallery/index.html)
-
-[Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/)
-
-[Feltron](http://feltron.com/)
-
-[Drawing exercises](http://blog.creativelive.com/drawing-for-graphic-design-exercises/)
+[How to learn to draw](https://design.tutsplus.com/tutorials/how-to-learn-to-draw-stage-one-manual-skills--cms-23304)
 
 Get it right in black and white.
 
@@ -152,3 +148,19 @@ Some questions to ask when evaluating representations of data:
 + Is the data presented in context?
 
 [How to learn data visualization](http://datastori.es/episode-5-how-to-learn-data-visualization-with-andy-kirk/)
+
+
+## Other
+
+Create a github account and make a repo called Portfolio. Start pushing your iterations up to this portfolio.
+
+[Great podcast about color](http://datastori.es/episode-7-color-feat-gregor-aisch/)
+
+[Data Narrative](http://polygraph.cool/redraft/)
+
+[Cool Wind](http://hint.fm/wind/gallery/index.html)
+
+[Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/)
+
+[Feltron](http://feltron.com/)
+
