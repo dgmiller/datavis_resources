@@ -9,7 +9,7 @@
 
 ### Day 7: February 7
 
-Train your eyes to see.
+Training Your Eyes to See
 
 *Anyone who can't communicate their ideas is on the same plane as someone who has no ideas.* -- Pericles
 
@@ -17,13 +17,20 @@ ANNOUNCEMENT: There are 4 Tufte books and another book called Dataclysm in the 1
 You are free to use them to get ideas and learn more about data vis. Please keep them in the room
 and don't write in them. I recommend starting with *The Visual Display of Quantitative Information*.
 
-[How to Doodle](https://www.youtube.com/watch?v=6gSmQNmC-5c)
+Activities:
 
-[Simple Drawing Exercises](https://design.tutsplus.com/articles/i-want-to-draw-simple-exercises-for-complete-beginners--vector-20583)
++ Watch [How to Doodle](https://www.youtube.com/watch?v=6gSmQNmC-5c) and doodle in class.
++ Learn how to see by drawing without looking at your paper. This is an exercise called [Blind Contour Drawing](https://en.wikipedia.org/wiki/Blind_contour_drawing).
++ Learn what is important in a sketch by drawing it in under a minute. I call this one-minute sketching.
 
-[How to learn to draw](https://design.tutsplus.com/tutorials/how-to-learn-to-draw-stage-one-manual-skills--cms-23304)
+Pinterest boards:
 
-Get it right in black and white.
++ [Posters](https://www.pinterest.com/dgmxm7/posters/)
++ [Mozambique](https://www.pinterest.com/dgmxm7/moz/)
+
+Designers have a saying: get it right in black and white. If it doesn't make sense in black and white, it will make less sense with color and style.
+
+**Homework**: Have a finished redesign of an ACME lab to show me on Thursday. This is a redesign of the solutions file and plots that you turned in to complete the lab, NOT a redesign of the written pdf of the lab. I recommend using a jupyter notebook and include some comments. I expect a minimum of an hour for this project. Do not spend more than three hours on this assignment. It is meant to show you how to use basic visual variables in matplotlib to improve a visualization.
 
 ### Day 6: January 31
 
