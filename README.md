@@ -7,6 +7,12 @@
 + Redesign an ACME lab
 + Complete a visual data analysis project and write up on Medium
 
+### Day 8: February 14
+
+Practice makes perfect.
+
+Since I was unavailable last Thursday, it's a work-in-class day. That way, I can come around and meet with those who I wasn't able to meet with. My apologies.
+
 ### Day 7: February 7
 
 Training Your Eyes to See
