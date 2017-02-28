@@ -7,6 +7,22 @@
 + Redesign an ACME lab
 + Complete a visual data analysis project and write up on Medium
 
+### Day 9: February 28
+
+ALL ABOUT COLOR
+
+Start by either speed drawing or blind contour drawing an image.
+
+Watch [this](https://bids.github.io/colormap/) color video
+
+Show the person next to you what you are working on. Talk about the color.
+
+Sign up for individual meeting times before the end of the semester.
+
+[Great podcast about color](http://datastori.es/episode-7-color-feat-gregor-aisch/)
+
+**Homework**: Create a github account and make a repo called Portfolio. Start pushing your iterations up to this portfolio.
+
 ### Day 8: February 14
 
 Practice makes perfect.
@@ -164,10 +180,6 @@ Some questions to ask when evaluating representations of data:
 
 
 ## Other
-
-Create a github account and make a repo called Portfolio. Start pushing your iterations up to this portfolio.
-
-[Great podcast about color](http://datastori.es/episode-7-color-feat-gregor-aisch/)
 
 [Data Narrative](http://polygraph.cool/redraft/)
 
