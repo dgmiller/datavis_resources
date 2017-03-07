@@ -7,9 +7,17 @@
 + Redesign an ACME lab
 + Complete a visual data analysis project and write up on Medium
 
-### Day 9: February 28
+### March 7: Data Narratives
 
-ALL ABOUT COLOR
+Introduction, Conflict, Resolution
+
+[Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/)
+
+[2016 Election Coverage](https://pudding.cool/2017/03/elections/)
+
+Stories provide context. They are a mental model that helps us remember information. Facts are hard to memorize. Stories stick.
+
+### February 28: Color
 
 Start by either speed drawing or blind contour drawing an image.
 
@@ -23,13 +31,13 @@ Sign up for individual meeting times before the end of the semester.
 
 **Homework**: Create a github account and make a repo called Portfolio. Start pushing your iterations up to this portfolio.
 
-### Day 8: February 14
+### February 14: Workday
 
 Practice makes perfect.
 
 Since I was unavailable last Thursday, it's a work-in-class day. That way, I can come around and meet with those who I wasn't able to meet with. My apologies.
 
-### Day 7: February 7
+### February 7: Learning to See
 
 Training Your Eyes to See
 
@@ -45,18 +53,11 @@ Activities:
 + Learn how to see by drawing without looking at your paper. This is an exercise called [Blind Contour Drawing](https://en.wikipedia.org/wiki/Blind_contour_drawing).
 + Learn what is important in a sketch by drawing it in under a minute. I call this one-minute sketching.
 
-Pinterest boards:
-
-+ [Posters](https://www.pinterest.com/dgmxm7/posters/)
-+ [Mozambique](https://www.pinterest.com/dgmxm7/moz/)
-
 Designers have a saying: get it right in black and white. If it doesn't make sense in black and white, it will make less sense with color and style.
 
 **Homework**: Have a finished redesign of an ACME lab to show me on Thursday. This is a redesign of the solutions file and plots that you turned in to complete the lab, NOT a redesign of the written pdf of the lab. I recommend using a jupyter notebook and include some comments. I expect a minimum of an hour for this project. Do not spend more than three hours on this assignment. It is meant to show you how to use basic visual variables in matplotlib to improve a visualization.
 
-### Day 6: January 31
-
-Exploration vs Communication
+### January 31: Exploration vs Communication
 
 *The greatest value of a picture is when it forces us to notice what we never expected to see.* -- John Tukey
 
@@ -80,7 +81,7 @@ Be careful about using exploratory analysis to confirm your own beliefs. Some go
 
 **Homework**: Sign up for a time to meet with me on Thursday. Bring either some visualizations for your ACME lab or stuff for your Data Report project.
 
-### Day 5: January 24
+### January 24: Visual Variables
 
 ANNOUNCEMENT: Formal class will no longer be held on Thursdays to not conflict with the soft skills seminar. All are encouraged to 
 attend the soft skills seminar. Instead of Thursday meetings as a class, I will be holding personal reviews at a time of your choosing 
@@ -111,7 +112,7 @@ come up with as many representations as you can. Draw them on paper. What did yo
 
 **Homework**: Schedule a Thursday portfolio review with me.
 
-### Day 4: January 19
+### January 19: Concept Visualization
 
 In a group, critique the initial visualizations of your data set. Focus your critiques on what the creator should
 do next with this visualization (choose better colors, make dots bigger, add more variables, etc).
@@ -124,7 +125,7 @@ Concepts can be visualized just like data. Discuss in a group what the following
 
 **Due next time**: choose an ACME lab to redesign and show potential employers.
 
-### Day 3: January 17
+### January 17: Know Your Data
 
 Today we are talking about [Dear Data](http://www.dear-data.com/theproject) and multidimensional visualizations.
 
@@ -139,7 +140,7 @@ Draw what you want the visualization to look like before you build it.
 
 **Due next time**: Have a visualization to present.
 
-### Day 2: January 12
+### January 12: Data, Not Visualization
 
 We talked about the [Gapminder](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen) data vis.
 
@@ -158,7 +159,7 @@ I added some files in the repo to help you load your data set in Pandas (python)
 
 **Due next time**: Get your hands on a data set you want to visualize.
 
-### Day 1: January 10
+### January 10: Introduction
 
 We learned how to critique a data visualization.
 
@@ -181,11 +182,7 @@ Some questions to ask when evaluating representations of data:
 
 ## Other
 
-[Data Narrative](http://polygraph.cool/redraft/)
-
 [Cool Wind](http://hint.fm/wind/gallery/index.html)
-
-[Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/)
 
 [Feltron](http://feltron.com/)
 
