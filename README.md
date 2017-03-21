@@ -7,6 +7,18 @@
 + Redesign an ACME lab
 + Complete a visual data analysis project and write up on Medium
 
+### March 21: Guest Lecture: Doug Thomas
+
+Meet in the HFAC room A460
+
+### March 14: Presentations
+
+Read Tufte's *The Cognitive Style of Powerpoint*
+
+Basically, handouts are better than slides 90% of the time.
+
+**Homework**: keep working on your projects 
+
 ### March 7: Data Narratives
 
 Introduction, Conflict, Resolution
